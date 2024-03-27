@@ -1,0 +1,10 @@
+# NOTE: uncomment if you want to store tfstates in S3
+#
+# tfstates:
+#   bucket: meetup-tfstates
+#   region: eu-west-1
+#   lockstable: meetup-tflocks
+
+customer:
+  name: webofmars
+  domain: webofmars.com
